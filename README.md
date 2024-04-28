@@ -67,7 +67,7 @@ The graph delineates the total count of deaths by heroin, segmented by gender ac
 <br/>
 <br/>
 
-# **Manupulations applied to the data set for analysis**
+# **Manipulations applied to the data set for analysis**
 We did not have to modify our data in any way. Our data has quantifiable data that can be measured and adheres to the standard of being meaningful, interpretable, and sigfncicant. It is, is laid out in a way that is free from duplicates, irrelevant entries, redundancy, inaccuracies, or any elements of poor quality.
 
 <br/>
